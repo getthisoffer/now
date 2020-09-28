@@ -3,7 +3,7 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         # FIX: Replace this email with recipient email
-        $mail_to = "anilplacer@gmail.com";
+        $mail_to = "ashakumari@ad-astra.in";
         
         
 
